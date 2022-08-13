@@ -1,0 +1,13 @@
+body{
+    background-color: burlywood;
+}
+
+#score {
+    font-size: 30;
+    float : left;
+}
+
+#timer {
+    font-size: 30;
+    float : right;
+}
